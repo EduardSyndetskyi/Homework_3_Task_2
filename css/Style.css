@@ -1,0 +1,162 @@
+body {
+    
+    margin-right: 0px;
+    font-size: 18px;
+}
+
+.container {
+    
+    margin:auto;
+    max-width: 1042px;
+    height: 646px;
+    background-color: #990909;
+
+}
+
+.Logo_link { 
+
+    padding-top: 8px;
+    margin-bottom: 5px;
+    height: 32px;
+    text-align: center;
+}
+
+.Website_section {
+
+    display: flex;
+    flex-direction: column;
+    height: 168px;
+    margin: 0 0 3px 7px;
+    background-color: black;
+
+}
+
+.Website_section > p {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0;
+}
+
+.Website_section p img {
+
+    padding-top: 21px;
+    width: 150px;
+    height: 114px;
+}
+
+.Website_section p a {
+
+    padding: 8px 0 8px 0;
+    width: 305px;
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+}
+
+.links {
+
+    display: flex;
+    flex-direction: row;
+}
+
+.aside_1 {
+
+    margin: 0 0 0px 9px;
+    width: 203px;
+    height: 350px;
+    background-color: #7d0909;
+
+}
+
+.aside_1 li {
+
+    padding: 14px 0 14px 0;
+}
+
+.link {
+
+    width: 203px;
+    display: block;
+    list-style-type: none;
+    padding-left: 0px;
+    margin: 4px 0 0 3px;
+}
+
+.link a {
+
+    font-size: 18px;
+    color:#e95b0D;
+
+}
+
+.link li:first-child {
+
+    padding-top: 0px;
+}
+
+.main_text {
+
+    margin: 0 8px 0 4px ;
+    color: #fff;
+    width: 650px;
+}
+
+.aside_2 {
+    
+    margin: 0 1px 20px 0;
+    background-color: #e3dddd;
+    max-width: 170px;
+    height: 350px;
+}
+
+.aside_2 > h4 {
+
+    margin: 0 2px 8px 2px;
+    width: 166px;
+    text-align: center;
+    margin-top: 0 ;
+    background-color:#bdbdbd;
+}
+
+.aside_2 p {
+
+    margin: 0px;
+}
+
+.aside_2 .line { 
+
+    margin: auto;
+    width: 78px;
+    height: 1px;
+    background-color: #9a9a9a;
+    border-bottom: 1px solid white;
+
+}
+
+.aside_2 .text {
+
+    width: 170px;
+    margin: 20px 0 20px 3px;
+
+}
+
+.line_p:first-child  { 
+
+    margin: 0;
+
+}
+
+.footer_copyright {
+
+    margin:  0 0 33px 11px;
+    font-size: 20px;
+    text-align: center;
+    color:#fff;
+    background-color: #e95b11;
+}
+
+
+
+
